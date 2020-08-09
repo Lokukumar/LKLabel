@@ -1,0 +1,16 @@
+PODS:
+  - LKLabel (0.1.0)
+
+DEPENDENCIES:
+  - LKLabel (from `../`)
+
+EXTERNAL SOURCES:
+  LKLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKLabel: 16ae363bc5a2c8d191bb2b461cd3a14c802b461b
+
+PODFILE CHECKSUM: 1964e31434da755c7998da9e225b907620d9c205
+
+COCOAPODS: 1.9.3
